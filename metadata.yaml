@@ -1,0 +1,26 @@
+_repo: Logica_12840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Piquer, Andres
+    alias: Piquerius, Andreas
+    birthdate: 1711
+    deathdate: 1772
+    gutenberg_agent_id: '4663'
+    url: http://www.gutenberg.org/2009/agents/4663
+description: ''
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12840'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Logic'
+- !lcc 'BC'
+- GITenberg
+title: Logica
+url: http://www.gutenberg.org/ebooks/12840
